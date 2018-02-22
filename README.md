@@ -1,4 +1,4 @@
-此项目是基于滴滴的VirtualAPK方案从AndroidStudio项目修改成Eclipse项目，并修改了其包名（原项目地址：https://github.com/didi/VirtualAPK）
+此项目是基于滴滴的VirtualAPK方案从AndroidStudio项目修改成Eclipse项目，并修改了其包名,原项目地址：https://github.com/didi/VirtualAPK
 
 --注意，使用此项目需要自行解决资源冲突的问题
 
